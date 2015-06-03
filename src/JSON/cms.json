@@ -1,6 +1,11 @@
 {
     "Yerevan Physics Institute":{
         "lat":40.206763,
-        "lng":44.485816
+        "lng":44.485816,
+        "img":"../IMG/yerevan.jpg"
+    },
+    "My Institutes of hello world":{
+        "lat":0,
+        "lng":0
     }
 }

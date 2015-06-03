@@ -6,20 +6,34 @@ function addMarkers()
     console.log("adding markers...");
     $(document).ready(function(){
         console.log("Doc Ready");
-        $.getJSON( jsonFile, function( data ) {
-            console.log("Got json");
-            $.each(data, function(index,value){
-                
-                var myLatlng = new google.maps.LatLng(value.lat,value.lng);
-                console.log(myLatlng);
-                var marker = new google.maps.Marker({
-                    position: myLatlng,
-                    map: map,
-                    title: 'hello world'
+        setTimeout(function(){
+            console.log("timeout")
+            $.getJSON( jsonFile, function( data ) {
+                console.log("Got json");
+                $.each(data, function(index,value){
+                    
+                    var myLatlng = new google.maps.LatLng(value.lat,value.lng);
+                    //console.log(value.lat);
+                    //console.log(value.lng);
+                    //console.log(index);
+                    var marker = new google.maps.Marker({
+                        position: myLatlng,
+                        map: map,
+                        title: index
+                    });
+                    google.maps.event.addDomListener(marker,'click',function() {
+                        if (value.img) {
+                            $("#image").attr("src", value.img);
+                        }
+                        else {
+                            $("#image").attr("src", "file:///D:/Fred/Documents/html/cmsmap/CMSMap/src/IMG/na.gif");
+                        }
+                        $("#image_modal").modal('show'); 
+                    });
+                    
                 });
-                
             });
-        });
+        },1);
     });
 }
 
