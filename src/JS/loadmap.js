@@ -28,6 +28,14 @@ function addMarkers()
                         else {
                             $("#image").attr("src", "file:///D:/Fred/Documents/html/cmsmap/CMSMap/src/IMG/na.gif");
                         }
+                        if (value.web) {
+                            $("#image_website").text("Website");
+                            $("#image_website").attr("href",value.web);
+                        }
+                        else {
+                            $("#image_website").text("No website listed");
+                        }
+                        $('#image_title').text(index);
                         $("#image_modal").modal('show'); 
                     });
                     

@@ -1,15 +1,18 @@
 {
     "University of Cyprus, Nicosia, Cyprus,": {
         "lat": 35.1600014,
-        "lng": 33.37701750000001
+        "lng": 33.37701750000001,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/0/05/University_of_Cyprus_in_Nicosia_capital_of_the_Republic_of_Cyprus_4.jpg"
     },
     "Sungkyunkwan University, Suwon, Republic of Korea": {
         "lat": 37.300344,
-        "lng": 126.97086
+        "lng": 126.97086,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/2f/Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.JPG"
     },
     "Wayne State University, Detroit, USA": {
         "lat": 42.3591388,
-        "lng": -83.06654619999999
+        "lng": -83.06654619999999,
+        "img":"http://media.wayne.edu/images/LawBuilding1.jpg"
     },
     "University de Lyon, Universitye Claude Bernard Lyon 1, CNRS-In2P3, institue de Physique Nucleaire de Lyon, Villeurbanne, France": {
         "lat": 45.771944,
@@ -601,7 +604,8 @@
     },
     "University of Maryland, College Park, USA": {
         "lat": 38.9869183,
-        "lng": -76.9425543
+        "lng": -76.9425543,
+        "web": "http://umdphysics.umd.edu/research/research-areas/high-energy-physics.html"
     },
     "California Institute of Technology, Pasadena, USA": {
         "lat": 34.1376576,
