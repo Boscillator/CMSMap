@@ -26,7 +26,7 @@ function addMarkers()
                             $("#image").attr("src", value.img);
                         }
                         else {
-                            $("#image").attr("src", "file:///D:/Fred/Documents/html/cmsmap/CMSMap/src/IMG/na.gif");
+                            $("#image").attr("src", "../IMG/na.gif");
                         }
                         if (value.web) {
                             $("#image_website").text("Website");

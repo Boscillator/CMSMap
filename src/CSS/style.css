@@ -1,1 +1,7 @@
-html, body, #map-canvas { height: 96.6%; margin: 0; padding: 0;}
+html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 1%;
+}

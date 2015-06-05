@@ -14,25 +14,27 @@
         "lng": -83.06654619999999,
         "img":"http://media.wayne.edu/images/LawBuilding1.jpg"
     },
-    "University de Lyon, Universitye Claude Bernard Lyon 1, CNRS-In2P3, institue de Physique Nucleaire de Lyon, Villeurbanne, France": {
-        "lat": 45.771944,
-        "lng": 4.8901709
-    },
+
     "Florida International University, Miami, USA": {
         "lat": 25.7581198,
-        "lng": -80.37617399999999
+        "lng": -80.37617399999999,
+        "img":"http://upload.wikimedia.org/wikipedia/en/archive/2/2b/20080322020245!BBCCampus.jpg"
     },
     "The Rockefeller University, New York, USA": {
         "lat": 40.7620925,
-        "lng": -73.9561878
+        "lng": -73.9561878,
+        "img":"http://en.wikipedia.org/wiki/Rockefeller_University#/media/File:Rockefeller_University.JPG"
+        
     },
     "University of Colorado at Boulder, Boulder, USA": {
         "lat": 40.00758099999999,
-        "lng": -105.2659417
+        "lng": -105.2659417,
+        "img": "http://en.wikipedia.org/wiki/University_of_Colorado_Boulder#/media/File:Old_Main_-_Colorado.jpg"
     },
     "Panjab University, Chandigarh, India": {
         "lat": 30.7606188,
-        "lng": 76.7653924
+        "lng": 76.7653924,
+        "img":"http://en.wikipedia.org/wiki/Panjab_University,_Chandigarh#/media/File:StuC_PU.jpg"
     },
     "Institute fur Hochenergiephysik der OeAW, Wien, Austria": {
         "lat": 48.2081743,
@@ -40,7 +42,8 @@
     },
     "Rice University, Houston, USA": {
         "lat": 29.7173941,
-        "lng": -95.40183119999999
+        "lng": -95.40183119999999,
+        "img":"http://en.wikipedia.org/wiki/Rice_University#/media/File:Rice_University_-_detail.JPG"
     },
     "Universite Catholique de Louvain, Louvain-la-Neuve, Belgium": {
         "lat": 50.6686108,
@@ -48,15 +51,20 @@
     },
     "Universidad de Los Andes, Bogota, Columbia": {
         "lat": 4.6015857,
-        "lng": -74.0652745
+        "lng": -74.0652745,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/a/af/Universidad_de_los_Andes_(3326108271).jpg"
     },
     "Institue of Experimental Physics, Faculty of Physics, University of Warsaw, Warsaw, Poland": {
         "lat": 52.2296756,
-        "lng": 21.0122287
+        "lng": 21.0122287,
+        "img":"http://en.wikipedia.org/wiki/University_of_Warsaw#/media/File:Bramauw.jpg"
+        
     },
     "Boston University, Boston, USA": {
         "lat": 42.3504997,
-        "lng": -71.1053991
+        "lng": -71.1053991,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/b/b5/Stuvi.JPG"
+        
     },
     "Texas A&M University, College Station, USA": {
         "lat": 30.6149186,
