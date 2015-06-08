@@ -68,7 +68,8 @@
     },
     "Texas A&M University, College Station, USA": {
         "lat": 30.6149186,
-        "lng": -96.3423158
+        "lng": -96.3423158,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/4/48/TAMU_Sul_Ross_statue.jpg"
     },
     "Universität Zürich, Zurich, Switzerland": {
         "lat": 47.3743221,
@@ -76,7 +77,8 @@
     },
     "Bhabha Atomic Research Centre, Mumbai, India": {
         "lat": 19.0153021,
-        "lng": 72.9240995
+        "lng": 72.9240995,
+        "img":"http://en.wikipedia.org/wiki/Bhabha_Atomic_Research_Centre#/media/File:Trombay.jpg"
     },
     "Universite de Mons, Mons, Belgium": {
         "lat": 50.4517211,
@@ -120,11 +122,13 @@
     },
     "The University of Iowa, Iowa City, USA": {
         "lat": 41.6626963,
-        "lng": -91.5548998
+        "lng": -91.5548998,
+        "img": "http://en.wikipedia.org/wiki/University_of_Iowa#/media/File:OldcapitolIowaCity.jpg"
     },
     "University of Florida, Gainesville, USA": {
         "lat": 29.6436325,
-        "lng": -82.3549302
+        "lng": -82.3549302,
+        "img":"http://www.florida-backroads-travel.com/images/UFCenturyTower.jpg"
     },
     "Academy of Scientific research and Technology of the Arab Republic of Egypt, Egyptian Network of High Energy Physics, Cairo, Egypt": {
         "lat": 30.0444196,
@@ -156,7 +160,8 @@
     },
     "Kansas State University, Manhattan, USA": {
         "lat": 39.1974437,
-        "lng": -96.5847249
+        "lng": -96.5847249,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/f/f2/KSU_Anderson_Hall.jpg"
     },
     "University of Hamburg, Hamburg, Germany": {
         "lat": 53.5665641,
@@ -164,11 +169,13 @@
     },
     "State University of New York at Buffalo, Buffalo, USA": {
         "lat": 43.0008093,
-        "lng": -78.7889697
+        "lng": -78.7889697,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/2b/Parker_2.jpg"
     },
     "Purdue University, West Lafayette, USA": {
         "lat": 40.4237054,
-        "lng": -86.92119459999999
+        "lng": -86.92119459999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/c/cc/2816_px_-_University_Hall_Purdue_University_Fall_2006.JPG"
     },
     "State Research Center of Russian Federation, Institute for High Energy Physics, Protvino, Russia": {
         "lat": 54.875414,
@@ -192,11 +199,13 @@
     },
     "The Ohio State University, Columbus, USA": {
         "lat": 40.0141905,
-        "lng": -83.03091429999999
+        "lng": -83.03091429999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/d/d2/Scott_Lab_OSU.jpg"
     },
     "University of Minnesota, Minneapolis, USA": {
         "lat": 44.97399,
-        "lng": -93.2277285
+        "lng": -93.2277285,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/4/4f/UMN-NorthrupMall.jpg"
     },
     "University of Sofia, Sofia, Bulgaria": {
         "lat": 42.6842323,
@@ -220,7 +229,8 @@
     },
     "Cornell University, Ithaca, USA": {
         "lat": 42.4534492,
-        "lng": -76.4735027
+        "lng": -76.4735027,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/4/40/Cornell_University_arts_quad.JPG"
     },
     "National centre for Physics, Quaid-I-Azam University, Islamabad, Pakistan": {
         "lat": 33.7504265,
@@ -240,7 +250,8 @@
     },
     "University of Nebraska-Lincoln, Lincoln, USA": {
         "lat": 40.8201966,
-        "lng": -96.70047629999999
+        "lng": -96.70047629999999,
+        "img": "http://en.wikipedia.org/wiki/University_of_NebraskaÐLincoln#/media/File:University_of_Nebraska-Lincoln,_Hamilton_Hall.jpg"
     },
     "INFN Sezione di Geova, Genova, Italy": {
         "lat": 44.4056499,
@@ -248,11 +259,13 @@
     },
     "University of California, Santa Barbara, Santa Barbara, USA": {
         "lat": 34.4139629,
-        "lng": -119.848947
+        "lng": -119.848947,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/24/Berkeley_glade_afternoon.jpg"
     },
     "Johns Hopkins University, Baltimore, USA": {
         "lat": 39.3249281,
-        "lng": -76.62335379999999
+        "lng": -76.62335379999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/1/1a/Gilman_Hall%2C_Johns_Hopkins_University%2C_Baltimore%2C_MD.jpg"
     },
     "Institute of System Engineering and Robotics, Sofia, Bulgaria,": {
         "lat": 42.6977082,
@@ -268,7 +281,8 @@
     },
     "Centre for Complex Cooperative Systems, University of the West of England, Bristol, United Kingdom": {
         "lat": 51.454513,
-        "lng": -2.58791
+        "lng": -2.58791,
+        "img":"http://en.wikipedia.org/wiki/University_of_the_West_of_England#/media/File:Uwe.bristol.750pix.jpg"
     },
     "Universita di Catania, Catania, Italy": {
         "lat": 37.5257976,
@@ -288,15 +302,18 @@
     },
     "University of Puerto Rico, Mayaguez, USA": {
         "lat": 18.214615,
-        "lng": -67.14093799999999
+        "lng": -67.14093799999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/2f/LaUniversidad.jpg"
     },
     "University of Auckland, Auckland, New Zealand": {
         "lat": -36.8523378,
-        "lng": 174.7691073
+        "lng": 174.7691073,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/5/5b/University_of_Auckland_Clock_Tower.jpg"
     },
     "University of California, Los Angeles, Los Angeles, USA": {
         "lat": 34.068921,
-        "lng": -118.4451811
+        "lng": -118.4451811,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/3/39/Janss_Steps%2C_Royce_Hall_in_background%2C_UCLA.jpg"
     },
     "Instituto de Fisica Teorica, Universidade Estadual Paulista, Sao Paulo, Brazil": {
         "lat": -23.5549325,
@@ -308,11 +325,13 @@
     },
     "University of California, San Diego, La Jolla, USA": {
         "lat": 32.8800604,
-        "lng": -117.2340135
+        "lng": -117.2340135,
+        "img":"http://upload.wikimedia.org/wikipedia/en/f/f3/UCSD-Warren_Pano.jpg"
     },
     "Brunel University, Uxbridge, United Kingdom": {
         "lat": 51.5328475,
-        "lng": -0.4728554
+        "lng": -0.4728554,
+        "img":"http://en.wikipedia.org/wiki/Brunel_University_London#/media/File:Brunel_university01.jpg"
     },
     "Universita di Bologna, Bologna, Italy": {
         "lat": 44.4962318,
@@ -328,19 +347,23 @@
     },
     "Florida Institute of Technology, Melbourne, USA": {
         "lat": 28.0649419,
-        "lng": -80.62324559999999
+        "lng": -80.62324559999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/6/62/FlTechMillerBldgCLOSE.jpg"
     },
     "University of California, Davis, Davis, USA": {
         "lat": 38.5382322,
-        "lng": -121.7617125
+        "lng": -121.7617125,
+        "img":"http://upload.wikimedia.org/wikipedia/en/7/74/MrakHall_Arboretum.jpg"
     },
     "The University of Alabama, Tuscaloosa, USA": {
         "lat": 33.2140233,
-        "lng": -87.5391418
+        "lng": -87.5391418,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/d/df/Denny_Chimes_by_Highsmith.jpg"
     },
     "University of Rochester, Rochester, USA": {
         "lat": 43.1305531,
-        "lng": -77.6260033
+        "lng": -77.6260033,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/b/be/URRushRhees.jpg"
     },
     "Korea University, Seoul, Republic of Korea": {
         "lat": 37.590401,
@@ -380,7 +403,8 @@
     },
     "University of Illinois at Chicago (UIC), Chicago, USA": {
         "lat": 41.8700281,
-        "lng": -87.6716871
+        "lng": -87.6716871,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/6/6f/UIC_UniversityHall.jpg"
     },
     "Institute of Nuclear Research ATOMKI, Debrecen, Hungary": {
         "lat": 47.5316049,
@@ -388,11 +412,13 @@
     },
     "Massachusetts Institute of Technology, Cambridge, USA": {
         "lat": 42.360091,
-        "lng": -71.09416
+        "lng": -71.09416,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/c/c3/MIT_Media_Lab.jpg"
     },
     "Baylor University, Waco, USA": {
         "lat": 31.5482204,
-        "lng": -97.1184377
+        "lng": -97.1184377,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/2e/Baylor_University_1892_front.png"
     },
     "Universita di Perugia, Perugia, Italy": {
         "lat": 43.1170684,
@@ -408,7 +434,8 @@
     },
     "Vanderbilt University, Nashville, USA": {
         "lat": 36.1447034,
-        "lng": -86.8026551
+        "lng": -86.8026551,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/4/44/Oldmech.jpg"
     },
     "Universita di Trieste, Trieste, Italy": {
         "lat": 45.6583833,
@@ -428,7 +455,8 @@
     },
     "Imperial College, London, United Kingdom": {
         "lat": 51.49879970000001,
-        "lng": -0.1748772
+        "lng": -0.1748772,
+        "img":"http://en.wikipedia.org/wiki/Imperial_College_London#/media/File:Victoria_and_Albert_Museum-1.jpg"
     },
     "Lappeenranta University of Technology, Lappeenranta, Finland": {
         "lat": 61.0649388,
@@ -436,19 +464,23 @@
     },
     "Rutgers, the State University of New Jersey, Piscataway, USA": {
         "lat": 40.5008186,
-        "lng": -74.44739910000001
+        "lng": -74.44739910000001,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/0/0d/Old_Queens_Rutgers.jpg"
     },
     "Princeton University, Princeton, USA": {
         "lat": 40.3439888,
-        "lng": -74.6514481
+        "lng": -74.6514481,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/a/a5/Princeton_University_Alexander.jpg"
     },
     "University of Tennessee, Knoxville, USA": {
         "lat": 35.9544013,
-        "lng": -83.92945639999999
+        "lng": -83.92945639999999,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/8/8e/UT_Ayres_Hall_front.jpg"
     },
     "Brown University, Providence, USA": {
         "lat": 41.8267718,
-        "lng": -71.4025482
+        "lng": -71.4025482,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/d/d5/Brown_University_Sayles_Hall.JPG"
     },
     "Vilnius University, Vilnius, Lithuania": {
         "lat": 54.6825757,
@@ -468,19 +500,23 @@
     },
     "Rutherford Appleton Laboratory, Didcot, United Kingdom": {
         "lat": 51.60804400000001,
-        "lng": -1.24484
+        "lng": -1.24484,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/4/4d/The_final_ALMA_front_end_leaves_for_Chile.jpg"
     },
     "Fairfield University, Fairfield, USA": {
         "lat": 41.1596335,
-        "lng": -73.2573697
+        "lng": -73.2573697,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/2/2f/Fairfield_Entrance.JPG"
     },
     "Florida State University, Tallahassee, USA": {
         "lat": 30.4418778,
-        "lng": -84.2984889
+        "lng": -84.2984889,
+        "img":"http://upload.wikimedia.org/wikipedia/en/5/58/FSU_Westcott.jpg"
     },
     "University of Notre Dame, Notre Dame, USA": {
         "lat": 41.7055716,
-        "lng": -86.2353388
+        "lng": -86.2353388,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/a/a0/The_University_of_Notre_Dame_%22God_Quad%22.JPG"
     },
     "Centro de Inbestigacion y de Estudios Avanzados del IPN, Mexico City, Mexico": {
         "lat": 19.2951852,
@@ -488,11 +524,13 @@
     },
     "CERN, European Organization for Nuclear Research, Geneva, Switzerland": {
         "lat": 46.2329908,
-        "lng": 6.0552787
+        "lng": 6.0552787,
+        "img":"http://neutrontrail.com/wp-content/uploads/2011/10/05-6389_NT.jpg"
     },
     "University of Wisconsin, Madison, USA": {
         "lat": 43.076592,
-        "lng": -89.4124875
+        "lng": -89.4124875,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/f/f7/Bascom_Hall_at_dusk.JPG"
     },
     "Tata Institute of Fundamental Research - EHEP, Mumbai, India": {
         "lat": 19.0759837,
@@ -524,7 +562,8 @@
     },
     "Northeastern University, Boston, USA": {
         "lat": 42.3398067,
-        "lng": -71.0891717
+        "lng": -71.0891717,
+        "img":"http://upload.wikimedia.org/wikipedia/en/b/be/Northeastern_Shillman_Hall.jpg"
     },
     "Chulalongkorn University, Bangkok, Thailand": {
         "lat": 13.7386223,
@@ -540,7 +579,8 @@
     },
     "University of Mississippi, University, USA": {
         "lat": 34.3647324,
-        "lng": -89.538443
+        "lng": -89.538443,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/d/d0/Olemisslyceum.jpg"
     },
     "Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico": {
         "lat": 22.1527552,
@@ -552,7 +592,8 @@
     },
     "University of Virginia, Charlottesville, USA": {
         "lat": 38.0335529,
-        "lng": -78.5079772
+        "lng": -78.5079772,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/3/35/Alderman_Library.JPG"
     },
     "Universita di Pisa, Pisa, Italy": {
         "lat": 43.7167235,
@@ -564,7 +605,8 @@
     },
     "The University of Kansas, Lawrence, USA": {
         "lat": 38.9543439,
-        "lng": -95.2557961
+        "lng": -95.2557961,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/0/05/Watson_Library.JPG"
     },
     "Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland": {
         "lat": 52.2296756,
@@ -576,7 +618,8 @@
     },
     "Lawrence Livermore National Laboratory, Livermore, USA": {
         "lat": 37.6797992,
-        "lng": -121.6980457
+        "lng": -121.6980457,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/3/35/LLNL_Aerial_View.jpg"
     },
     "National Taiwan University (NTU), Taipei, Taiwan": {
         "lat": 25.0151171,
@@ -584,7 +627,8 @@
     },
     "University of Bristol, Bristol, United Kingdom": {
         "lat": 51.4584172,
-        "lng": -2.6029792
+        "lng": -2.6029792,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/5/51/University_of_bristol_tower_after_cleaning_arp.jpg"
     },
     "Institute of High Energy Physics, Beijing, China": {
         "lat": 39.908506,
@@ -608,7 +652,8 @@
     },
     "Carnegie Mellon University, Pittsburgh, USA": {
         "lat": 40.4424925,
-        "lng": -79.9425528
+        "lng": -79.9425528,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/c/c0/Wean_hall.jpg"
     },
     "University of Maryland, College Park, USA": {
         "lat": 38.9869183,
@@ -617,7 +662,8 @@
     },
     "California Institute of Technology, Pasadena, USA": {
         "lat": 34.1376576,
-        "lng": -118.125269
+        "lng": -118.125269,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/c/cc/Caltech_Entrance.jpg"
     },
     "Technical University of Split, Split, Croatia": {
         "lat": 43.5109919,
@@ -625,7 +671,8 @@
     },
     "Fermi National Accelerator Laboratory, Batavia, USA": {
         "lat": 41.8406566,
-        "lng": -88.279084
+        "lng": -88.279084,
+        "img":"http://upload.wikimedia.org/wikipedia/commons/b/b4/Fermilab_satellite.gif"
     },
     "Vrije Universiteit Brussel, Belgium": {
         "lat": 50.8229896,
